@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Salary,JoiningDate,PerformanceScore
+101,Amit,IT,75000,2021-06-15,4.5
+102,Neha,HR,60000,2020-09-23,3.8
+103,Rahul,Finance,82000,2019-01-10,4.2
+104,Sneha,IT,90000,2022-03-01,4.9
+105,Arjun,Marketing,65000,2021-11-19,3.5
+106,Priya,Finance,78000,2020-05-30,4.0
+107,Vikram,HR,62000,2018-07-12,3.7
+108,Anjali,IT,85000,2021-02-20,4.6
+109,Raj,Marketing,72000,2019-10-05,3.9
+110,Sunita,Finance,79500,2020-12-01,4.1
