@@ -1,0 +1,2 @@
+dvc add data/ => to add a directory for the data
+dvc remote add -d myremote s3 => added the remote folder/ file path
